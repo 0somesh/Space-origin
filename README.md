@@ -1,7 +1,5 @@
 # Space Origin
-A bullet hell game in HTML5 and JS, using the p5.js library. You can play it
-[here](https://rsaihe.github.io/bullethell).
-
+A space origin is a game build in HTML5 and JS, using the p5.js library. 
 ### Arrow Key Controls
 * Arrow keys to move.
 * Z to fire.
